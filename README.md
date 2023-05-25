@@ -12,7 +12,7 @@ Me enfoqué principalmente en el **revenue total**, la cantidad de meses que han
 
 Otra cosa que me parecia interesante hacer es dividir el conjunto de personas que abandonaron en dos partes; una para los que se habian ido despues de 12 meses y otra antes de 12 meses, esto me daría una visión más clara de las razones que hacian que nos abandonaran después de 1 año o poco tiempo después de contrata. Destaca que **la mayoria de estas razones estan relacionadas con nuestro competidor.**
 
-Por último cree [3 dashboards con PowerBI](https://github.com/ricardobrein/BI-churn-analisis-maven-telecom/blob/master/Churn-case-report.pdf), que enfocan de una manera muy visual la historia que quiero contar acerca de los descubrimientos que hice y algunas recomendaciones para Maven Telecom.
+Por último cree [3 dashboards con PowerBI](https://github.com/ricardobrein/BI-churn-analisis-maven-telecom/blob/master/Churn-case-report.pdf), para enfocar visualmente el Data Storytelling acerca de los descubrimientos que hice y algunas recomendaciones para Maven Telecom.
 
 
 ![Descripción de la imagen](media/img1.jpg)
